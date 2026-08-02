@@ -1,0 +1,11 @@
+The Project mini-gpt architecture is designed to understand the fundamental mechanics of transformer models. 
+In the beginning, there was text. Text is converted into tokens. Tokens are converted into numbers. 
+Numbers flow through embedding layers, passing into the multi-head self-attention mechanism. 
+Attention is all you need to map relationships between words in a sequence. 
+The model learns to predict the next token, step by step, token by token, layer by layer. 
+Through backpropagation and gradient descent, the loss decreases, and intelligence emerges from simple matrix multiplications. 
+We train the network on this corpus, watching the loss fall from high numbers down to near zero. 
+A transformer processes sequences in parallel, using masks to prevent looking into the future. 
+Generative pre-training allows the model to complete sentences, write poetry, and generate code. 
+This is the core philosophy of deep learning: simple operations scaled up to massive scales. 
+Now, let us build the model, write the training loop, and watch the weights update in real-time.
